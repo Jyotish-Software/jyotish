@@ -1,7 +1,5 @@
 # Jyotish Library
 
-[![Total Downloads](https://poser.pugx.org/kunjara/jyotish/downloads)](https://packagist.org/packages/kunjara/jyotish) 
-[![Latest Unstable Version](https://poser.pugx.org/kunjara/jyotish/v/unstable)](https://packagist.org/packages/kunjara/jyotish) 
 [![License](https://poser.pugx.org/kunjara/jyotish/license)](https://packagist.org/packages/kunjara/jyotish)
 
 You can do the following calculations:
