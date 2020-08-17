@@ -23,7 +23,8 @@ The files in this library are released under the GNU General Public License vers
 
 ## Demo
 
-To test Jyotish library, a demo website is online: [jyotish.su](http://jyotish.su), or visit social dating service [abboom.com](https://abboom.com)
+Demo is currently not working. We are wroking on it. 
+
 
 ## Literature
 
@@ -43,3 +44,10 @@ Most of the calculations are based on the following books:
 * Bhavishya Purana.
 * Surya Siddhanta.
 * Manu-Samhita.
+
+## How To Use 
+
+* Clone the library from github
+* Install Composer
+* Go to the downloaded directory using cmd, where you can see a composer.json file
+* run "composer install" in the directory
