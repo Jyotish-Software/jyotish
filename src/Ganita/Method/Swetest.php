@@ -142,8 +142,6 @@ class Swetest extends AbstractGanita
                     case Data::BLOCK_BHAVA:
                         $houses = $stringHouses;
                         break;
-                    default:
-                        continue;
                 }
             }
         }

@@ -7,7 +7,7 @@
 namespace Jyotish\Graha\Object;
 
 use Jyotish\Base\Biblio;
-use Jyotish\Base\Object;
+use Jyotish\Base\JyObject;
 use Jyotish\Graha\Graha;
 use Jyotish\Rashi\Rashi;
 use Jyotish\Ganita\Math;

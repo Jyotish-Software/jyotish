@@ -11,7 +11,7 @@ namespace Jyotish\Base;
  *
  * @author Kunjara Lila das <vladya108@gmail.com>
  */
-class Object
+class JyObject
 {
     use \Jyotish\Base\Traits\GetTrait;
     use \Jyotish\Base\Traits\OptionTrait;

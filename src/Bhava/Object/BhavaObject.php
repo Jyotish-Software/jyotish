@@ -6,7 +6,7 @@
 
 namespace Jyotish\Bhava\Object;
 
-use Jyotish\Base\Object;
+use Jyotish\Base\JyObject;
 
 /**
  * Parent class for bhava objects.
