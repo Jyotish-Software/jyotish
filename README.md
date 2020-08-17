@@ -48,4 +48,5 @@ Most of the calculations are based on the following books:
 * Clone the library from github
 * Install Composer
 * Go to the downloaded directory using cmd, where you can see a composer.json file
-* run "composer install" in the directory
+* Run "composer install" in the directory
+* Browse to index-testonly.php from your localhost Wamp/Xampp installation 
